@@ -1,0 +1,5 @@
+Create a Design
+
+Level 1 - That has a turtle constantly draw polygons of different sizes.
+Level 2 - That has a turtle constantly drawing polygons by using a function called “drawpolygon” which uses random inputs for the number of side lengths and the length of the sides.   Also incorporate a random turn between polygons as well as a random color.
+Level 3 - That uses multiple turtles to draw polygons with all of the above.
